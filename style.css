@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #333333;
+}
+
+.paragraph-red {
+  color: red;
+}
+
+h1, h2, h3 {
+  color: #1B1B1B;
+}
+
+/*Estilização lists*/
+ul {
+  font-weight: bold;
+}
+
+li {
+   color: #0C51A7;
+}
+
+#item-porpou {
+  color: #591B98;
+}
+
+
+li + li {
+ color: #E5245E;
+}
+
+li + li + li {
+  color: #E95E10;
+}
